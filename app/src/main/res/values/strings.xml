@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">MyGamy</string>
+    <string name="myscrin">это myscrin</string>
+    <string name="activivti_main">Привет!</string>
+    <string name="checkbox">CheckBox</string>
+    <string name="batton">Кнопка</string>
+</resources>
