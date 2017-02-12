@@ -14,10 +14,10 @@
         android:layout_marginTop="15dp"
         android:layout_weight="0.23"
         android:background="@color/colorAccent"
-        android:text="Button" />
+        android:text="@string/button" />
 
     <TextView
-        android:text="Hello"
+        android:text="@string/hello"
         android:layout_width="138dp"
         android:layout_height="50dp"
         android:id="@+id/textView1" />
@@ -29,13 +29,7 @@
         android:layout_marginBottom="10dp"
         android:layout_weight="0.23"
         android:background="@color/colorPrimary"
-        android:text="Button2" />
+        android:text="@string/button2" />
 
-    <ImageView
-        android:layout_width="match_parent"
-        android:layout_height="wrap_content"
-        app:srcCompat="@drawable/ic_accessibility_black_24dp"
-        android:id="@+id/imageView2"
-        android:layout_weight="0.23" />
 
 </LinearLayout>
