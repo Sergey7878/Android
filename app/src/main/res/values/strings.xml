@@ -1,7 +1,12 @@
 <resources>
     <string name="app_name">MyGamy</string>
-    <string name="myscrin">это myscrin</string>
-    <string name="activivti_main">Привет!</string>
+    <string name="myscrin">this myscrin</string>
+    <string name="activivti_main">Hello!</string>
     <string name="checkbox">CheckBox</string>
-    <string name="batton">Кнопка</string>
+    <string name="batton">Button</string>
+    <string name="hello">Hello</string>
+    <string name="button2">Button2</string>
+    <string name="hello_world">Hello world</string>
+    <string name="button">Button</string>
+    <string name="textview">TextView</string>
 </resources>
